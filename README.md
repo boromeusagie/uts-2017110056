@@ -15,7 +15,11 @@ Clone repository ini di folder anda.
 Lalu masukkan perintah ini di command prompt:
 ```
 composer install
+```
+```
 npm install
+```
+```
 npm run dev
 ```
 
